@@ -1,0 +1,21 @@
+body{
+    background: url("https://image.shutterstock.com/z/stock-photo-asian-business-man-hand-holding-note-paper-meeting-with-new-startup-project-use-post-it-notes-to-789124435.jpg");
+}
+#zero{
+      text-align: center;
+      margin-top: 20%;
+      }
+.details{
+    color:purple;
+}
+#id{
+    text-align: center;
+}
+
+.start{
+    color: red;
+    size: 15%;
+    text-align: center;
+    margin-top: 18%;
+}
+
